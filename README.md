@@ -43,7 +43,7 @@ Die Ingame-Nachrichten sind ebenfalls in `config.lua` einstellbar, z. B.:
 ## ❓ Support
 
 Bei Fragen oder Problemen kannst du jederzeit ein Ticket auf unserem Discord eröffnen:  
-👉 **[https://discord.gg/F4Nwa2JA6x](https://discord.gg/F4Nwa2JA6x)**
+👉 **[https://discord.gg/TdSZnRWDmZ](https://discord.gg/TdSZnRWDmZ)**
 
 Vielen Dank nochmals für dein Vertrauen in **Cloud Studios**! 💙
 
